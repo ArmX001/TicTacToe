@@ -30,4 +30,4 @@ private:
 	std::string pl1, pl2;
 };
 
-#endif
+#endif // TICTACTOE_HPP
